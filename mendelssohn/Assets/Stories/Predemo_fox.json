@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Fox_approaches",
+		"tags": "",
+		"body": "You are out on a late night walk. You're feeling a bit tired, so you decide to sit down on a bench in a nearby park. #line:1111111\nYou suddenly see a shadow closing in on you. The light from a nearby lamp post soon reveals it to be a fox. #line:11111112\nThe fox is looking at you expectantly. #line:11111113\n[[Stand up and walk away.|No_fox]] #line:11111114\n[[Are you the one I've been waiting for? |Fox_speaks]] #line:11111115",
+		"position": {
+			"x": 741,
+			"y": 237
+		},
+		"colorID": 0
+	},
+	{
+		"title": "No_fox",
+		"tags": "",
+		"body": "The fox follows you with its' eyes as you walk away. #line:11111121\nYou see how the fox disappears back into the shadows. #line:11111122",
+		"position": {
+			"x": 988,
+			"y": 132
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Fox_speaks",
+		"tags": "",
+		"body": "The fox speaks to you. #line:11111131\nFollow me. I will show you da wae. #line:11111132\nThe End #line:11111133",
+		"position": {
+			"x": 987,
+			"y": 432
+		},
+		"colorID": 0
+	}
+]
