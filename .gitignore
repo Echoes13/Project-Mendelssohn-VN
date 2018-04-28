@@ -40,15 +40,15 @@ Thumbs.db
 ###
 # Unity folders and files
 ###
-[Aa]ssets/AssetStoreTools/**
-[Aa]ssets/TextMesh\ Pro/**
-[Aa]ssets/YarnSpinner/**
-[Bb]uild/
-[Ll]ibrary/
-[Ll]ocal[Cc]ache/
-[Oo]bj/
-[Tt]emp/
-[Uu]nityGenerated/
+*/[Aa]ssets/AssetStoreTools/**
+*/[Aa]ssets/TextMesh\ Pro/**
+*/[Aa]ssets/YarnSpinner/**
+*/[Bb]uild/
+*/[Ll]ibrary/
+*/[Ll]ocal[Cc]ache/
+*/[Oo]bj/
+*/[Tt]emp/
+*/[Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
