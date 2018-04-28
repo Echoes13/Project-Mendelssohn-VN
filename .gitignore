@@ -40,9 +40,9 @@ Thumbs.db
 ###
 # Unity folders and files
 ###
-[Aa]ssets/AssetStoreTools*
-[Aa]ssets/TextMes\ Pro*
-[Aa]ssets/YarnSpinner*
+[Aa]ssets/AssetStoreTools/
+[Aa]ssets/TextMesh\ Pro/
+[Aa]ssets/YarnSpinner/
 [Bb]uild/
 [Ll]ibrary/
 [Ll]ocal[Cc]ache/
